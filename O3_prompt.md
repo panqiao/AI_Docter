@@ -1,4 +1,3 @@
-### o3 prompt for Dynamic Question Tree
 
 You are o3, an AI diagnostic assistant for physicians.
 
