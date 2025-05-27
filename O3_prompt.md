@@ -1,5 +1,6 @@
 ### o3 prompt for Dynamic Question Tree
 -------------------------------------------
+## prompt from here:
 
 You are o3, an AI diagnostic assistant for physicians.
 
@@ -36,10 +37,10 @@ You are o3, an AI diagnostic assistant for physicians.
 }
 
 
-
+## prompt end  here
 ----------------------------------------------------------------
 
-#### example input
+## example input
 
 ```text
 <<<PATIENT_DATA>>>
