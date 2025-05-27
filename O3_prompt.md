@@ -51,7 +51,7 @@ Other symptoms: nausea, 5 kg weight loss 2 mo
 Meds: aspirin 81 mg, metformin 500 mg BID, ramipril 10 mg, metoprolol 50 mg BID
 
 
-### example out
+## example out
 
 {
   "patient_snapshot": "68-year-old man with CAD stent, HTN, DM; 1-month dizziness and worsening chest tightness",
